@@ -40,7 +40,7 @@
             </div>
         </header>
         <!-- About Section-->
-        <section class="page-section bg-info text-white mb-0" id="about">
+        <section class="page-section bg-info text-white mb-0" id="nosotros">
             <div class="container">
                 <!-- About Section Heading-->
                 <h2 class="page-section-heading text-center text-uppercase text-white">¿Quienes somos?</h2>
@@ -73,7 +73,7 @@
             </div>
         </section>
         <!-- SECCION OFERTA EDUCATIVA -->
-        <section class="page-section portfolio" id="portfolio">
+        <section class="page-section oferta-educativa" id="oferta-educativa">
             <div class="container">
                 <!-- SECCION OFERTA EDUCATIVA TITULO-->
                 <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Oferta Educativa</h2>
@@ -143,7 +143,7 @@
             </div>
         </section>
         <!-- Contact Section-->
-        <section class="page-section" id="contact">
+        <section class="page-section" id="contacto">
             <div class="container">
                 <!-- Contact Section Heading-->
                 <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contacto</h2>
